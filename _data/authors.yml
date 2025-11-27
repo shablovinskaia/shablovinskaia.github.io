@@ -2,84 +2,32 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Elena Shablovinskaia
+  email:             <gaerlind09@gmail.com>
 
-  # Used at the bottom of each page and at the top of the `about` layout
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+  about: |
+    I study optical polarization and millimeter emission in active galactic nuclei,
+    focusing on particle acceleration in the X-ray corona and its possible connection
+    to the base of relativistic jets. My research bridges radio-loud and radio-quiet
+    AGN populations to understand what triggers jet launching and whether strong
+    particle acceleration can occur without large-scale jets.
 
-  # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
-    # srcset is optional, but can be used to provide higher res versions for retina displays
+    path: /assets/img/your_photo.jpg
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x: /assets/img/your_photo.jpg
+      2x: /assets/img/your_photo.jpg   # можно позже заменить ретиной
 
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Rearrange to change the order in which they appear
-  # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
-    # facebook:        <username>
-    # google:          <number>
-    # vk:              <username>
-    # youtube:         <string_string_string>
-    # vimeo:           <username>
-    # vine:            <username>
-    # spotify:         <user>/<number>
-    # soundcloud:      <username>
-    # lastfm:          <username>
-    # instagram:       <username>
-    # flickr:          <string@string>
-    # 500px:           <username>
-    # dribbble:        <username>
-    # behance:         <username>
-    # deviantart:      <username>
-    # ello:            <username>
-    # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
-    # pinterest:       <username>
-    # foursquare:      <number>
-    # yelp:            <string>
-    # stackoverflow:   <number/username>
-    # npm:             <username>
-    # hackernews:      <username>
-    # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
-    # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
-    # delicious:       <username>
-    # stumbleupon:     <username>
-    # paypal:          <username>
-    # download:        <url>
-    # keybase:         <username>
-    # signal:          <group-invite-code>
-    # threads:         @<username>
-    # playstation:     https://<url>
-    # messenger:       https://<url>
-    # stripe:          https://<url>
-    # slack:           https://<url>
-    # gitlab:          <username>
-    # line:            <username>
-    # medium:          <path>
-    # xbox:            <gamer-tag>
-    # wechat:          https://<url>
-    # discord:         <invite-code>
-    # mastodon:        https://<url>
-    # x:               <username>
+    # ORCID — добавляем как ссылку
+    # Важно: ORCID не встроен автоматически, поэтому используем url напрямую
+    orcid: https://orcid.org/0000-0003-2914-2507
+
+    # Убираем всё лишнее:
+    # twitter:
+    # github:
+    # email:
+
 
 # Another author (optional)
 author2:
