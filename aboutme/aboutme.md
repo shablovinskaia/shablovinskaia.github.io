@@ -1,12 +1,10 @@
 ---
 layout: page
 title: "About me"
-permalink: /about/
+permalink: /aboutme/
 ---
 
-# About me
-
-![My photo](/assets/img/IMG_5359.jpg){: .lead width="40%" }
+![My photo](/assets/img/IMG_5359.jpg){: .lead width="20%" }
 
 I am an astrophysicist working on optical polarization and millimeter emission
 in active galactic nuclei, focusing on particle acceleration in the X-ray corona
