@@ -25,8 +25,7 @@ title:                 Elena Shablovinskaia
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Hey! This is my personal page, where I am glad to share with you sometimes some interesting astrophysical results I've done. 
 
 # A shorter description for the sidebar.
 tagline:               Postdoctoral Fellow
@@ -338,6 +337,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-scholar
 
 
 # SEO Tag
