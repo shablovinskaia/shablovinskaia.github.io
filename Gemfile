@@ -12,6 +12,8 @@ gem "jekyll", "~> 4.3"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem "jekyll-scholar", "~> 7.0"
+
 # If you are part of the ["Customers" team](https://github.com/orgs/hydecorp/teams/pro-customers), 
 # you can fetch the theme from a private repository. 
 # See [Deploy in the Hydejack Docs](https://hydejack.com/docs/deploy) for details.
@@ -61,5 +63,3 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
-
-gem 'jekyll-scholar'
