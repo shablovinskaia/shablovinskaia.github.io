@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
-
-Below is a list of my peer-reviewed publications.
+Updated: 27/11/2025
 
 {% bibliography --file 251127papers %}
