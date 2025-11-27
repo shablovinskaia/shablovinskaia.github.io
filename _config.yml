@@ -339,6 +339,9 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-scholar
 
+scholar:
+  bibliography: 271125papers.bib
+
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
