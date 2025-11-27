@@ -8,4 +8,4 @@ permalink: /publications/
 
 Below is a list of my peer-reviewed publications.
 
-{% bibliography --file papers %}
+{% bibliography --file 251127papers %}
