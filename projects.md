@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: grid
 title: Projects
 permalink: /projects/
 category: projects
