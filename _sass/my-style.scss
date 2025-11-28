@@ -20,15 +20,15 @@
 }
 
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin-top: 1.5rem;
 }
 
 .gallery img {
-  width: 45%;
-  border-radius: 8px;
+  width: 100%;
   height: auto;
+  border-radius: 8px; /* красиво */
   object-fit: cover;
 }
