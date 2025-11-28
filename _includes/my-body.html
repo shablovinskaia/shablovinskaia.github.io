@@ -91,3 +91,30 @@ Example code for using Matamo as alternative analytics solution.
 </script>
 {% endif %}
 {% endcomment %}
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".gallery-grid img").forEach(img => {
+    img.addEventListener("click", () => {
+      const lightbox = document.getElementById("lightbox-modal");
+      const big = document.getElementById("lightbox-image");
+      const cap = document.getElementById("lightbox-caption");
+
+      big.src = img.src;
+      cap.textContent = img.alt;
+      lightbox.classList.add("open");
+    });
+  });
+
+  document.getElementById("lightbox-modal").addEventListener("click", (e) => {
+    if (e.target.id === "lightbox-modal") {
+      e.target.classList.remove("open");
+    }
+  });
+
+  document.getElementById("lightbox-close").addEventListener("click", () => {
+    document.getElementById("lightbox-modal").classList.remove("open");
+  });
+});
+</script>
+
