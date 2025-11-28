@@ -18,29 +18,75 @@ You can download my full CV here 👉 [(PDF)](/assets/CV.pdf)
 
 ## Gallery
 
-<!-- Thumbnail -->
-<a href="#img1">
-  <img src="/assets/img/IMG_3340.JPG" style="width:30%;margin:5px;border-radius:8px;">
-</a>
+<div class="gallery-grid">
 
-<!-- Lightbox -->
+  <a href="#img1"><img src="/assets/img/IMG_3340.JPG"></a>
+  <a href="#img2"><img src="/assets/img/IMG_4532.JPG"></a>
+  <a href="#img3"><img src="/assets/img/IMG_4945.JPG"></a>
+  <a href="#img4"><img src="/assets/img/IMG_6063.JPG"></a>
+  <a href="#img5"><img src="/assets/img/IMG_7059.JPG"></a>
+  <a href="#img6"><img src="/assets/img/IMG_7060.JPG"></a>
+  <a href="#img7"><img src="/assets/img/IMG_7314.JPG"></a>
+  <a href="#img8"><img src="/assets/img/IMG_7356.JPG"></a>
+  <a href="#img9"><img src="/assets/img/IMG_8035.JPG"></a>
+  <a href="#img10"><img src="/assets/img/IMG_8203.JPG"></a>
+  <a href="#img11"><img src="/assets/img/IMG_8505.JPG"></a>
+
+</div>
+
+<!-- LIGHTBOXES -->
+
 <a href="#" class="lightbox" id="img1">
   <img src="/assets/img/IMG_3340.JPG">
-  <p class="caption">A snow day in Munich</p>
+  <p class="caption">Munich winter sky</p>
 </a>
 
+<a href="#" class="lightbox" id="img2">
+  <img src="/assets/img/IMG_4532.JPG">
+  <p class="caption">Observing night</p>
+</a>
 
+<a href="#" class="lightbox" id="img3">
+  <img src="/assets/img/IMG_4945.JPG">
+  <p class="caption">Santiago sunset</p>
+</a>
 
-<div class="gallery">
-  <img src="/assets/img/IMG_3340.JPG" alt="">
-  <img src="/assets/img/IMG_4532.JPG" alt="">
-  <img src="/assets/img/IMG_4945.JPG" alt="">
-  <img src="/assets/img/IMG_6063.JPG" alt="">
-  <img src="/assets/img/IMG_7059.JPG" alt="">
-  <img src="/assets/img/IMG_7060.JPG" alt="">
-  <img src="/assets/img/IMG_7314.JPG" alt="">
-  <img src="/assets/img/IMG_7356.JPG" alt="">
-  <img src="/assets/img/IMG_8035.JPG" alt="">
-  <img src="/assets/img/IMG_8203.JPG" alt="">
-  <img src="/assets/img/IMG_8505.JPG" alt="">
-</div>
+<a href="#" class="lightbox" id="img4">
+  <img src="/assets/img/IMG_6063.JPG">
+  <p class="caption">Atacama road trip</p>
+</a>
+
+<a href="#" class="lightbox" id="img5">
+  <img src="/assets/img/IMG_7059.JPG">
+  <p class="caption">ALMA plateau</p>
+</a>
+
+<a href="#" class="lightbox" id="img6">
+  <img src="/assets/img/IMG_7060.JPG">
+  <p class="caption">Desert afternoon</p>
+</a>
+
+<a href="#" class="lightbox" id="img7">
+  <img src="/assets/img/IMG_7314.JPG">
+  <p class="caption">Mountains near La Serena</p>
+</a>
+
+<a href="#" class="lightbox" id="img8">
+  <img src="/assets/img/IMG_7356.JPG">
+  <p class="caption">Evening light</p>
+</a>
+
+<a href="#" class="lightbox" id="img9">
+  <img src="/assets/img/IMG_8035.JPG">
+  <p class="caption">Atacama dust and wind</p>
+</a>
+
+<a href="#" class="lightbox" id="img10">
+  <img src="/assets/img/IMG_8203.JPG">
+  <p class="caption">Morning hike</p>
+</a>
+
+<a href="#" class="lightbox" id="img11">
+  <img src="/assets/img/IMG_8505.JPG">
+  <p class="caption">Southern skies</p>
+</a>
