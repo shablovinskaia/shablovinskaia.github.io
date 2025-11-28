@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First light: my personal page is online
+title: First light - my personal page is online
 image:
   path: /assets/img/IMG_8878.jpg
 ---
