@@ -1,7 +1,8 @@
 ---
-layout: projects
+layout: blog
 title: Projects
 permalink: /projects/
-show_collection: projects
-featured: true
+category: projects
 ---
+
+Here are my long-term scientific projects.
