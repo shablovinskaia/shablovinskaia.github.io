@@ -4,20 +4,13 @@ title: "About me"
 permalink: /aboutme/
 ---
 
-![My photo](/assets/img/IMG_5359.jpg){: .lead width="20%" }
+I’m a postdoctoral researcher at the **Max Planck Institute for Radio Astronomy** in Bonn, where I study **compact millimetre emission from active galactic nuclei** and its connection to the **X-ray corona**. My work focuses on particle acceleration, magnetic fields, and the physics of the innermost regions around supermassive black holes.
 
-I am an astrophysicist working on optical polarization and millimeter emission
-in active galactic nuclei, focusing on particle acceleration in the X-ray corona
-and its connection to the base of relativistic jets.
-My work bridges radio-loud and radio-quiet AGN populations
-to understand what triggers jet launching and whether strong acceleration
-can occur without large-scale jets.
+Before moving to Germany, I worked as a postdoc at **Universidad Diego Portales** in Santiago, Chile, leading ALMA projects on **mm/X-ray variability** and **millimetre polarimetry of radio-quiet AGNs**. I completed my **Ph.D. at the Special Astrophysical Observatory of RAS**, specializing in optical image- and spectropolarimetry of active galaxies *(and I'm still in love with it!)*.
 
-Currently: Humboldt Fellowship at Max Planck Institute for Radioastronomy, Bonn, Germany
+My scientific interests include **AGN central regions**, **mm and optical polarimetry**, **X-ray corona physics**, and **AGN variability** across timescales.
 
----
-
-## CV
+![My photo](/assets/img/IMG_5359.jpg){: .about-photo }
 
 You can download my full CV here:  
 👉 [Download CV (PDF)](/assets/CV.pdf)
