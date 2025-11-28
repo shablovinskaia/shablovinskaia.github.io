@@ -3,6 +3,7 @@ layout: post
 title: First light - my personal page is online
 image:
   path: /assets/img/IMG_8878.jpg
+categories: [news]
 ---
 
 I’ve finally set up my personal webpage and started organizing my research projects,
