@@ -75,3 +75,44 @@
   font-size: 1.1rem;
   text-align: center;
 }
+
+/* LIGHTBOX MODAL */
+#lightbox-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 20000;
+  padding: 2rem;
+}
+
+#lightbox-modal.open {
+  display: flex;
+}
+
+#lightbox-image {
+  max-width: 90%;
+  max-height: 80%;
+  border-radius: 8px;
+}
+
+#lightbox-caption {
+  color: #fff;
+  margin-top: 1rem;
+  font-style: italic;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+#lightbox-close {
+  color: #fff;
+  font-size: 2rem;
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  cursor: pointer;
+}
+
