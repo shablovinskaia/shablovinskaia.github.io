@@ -92,3 +92,9 @@ You can download my full CV here 👉 [(PDF)](/assets/CV.pdf)
   </a>
 
 </div>
+
+<div id="lightbox-modal">
+  <span id="lightbox-close">&times;</span>
+  <img id="lightbox-image" src="">
+  <p id="lightbox-caption"></p>
+</div>
