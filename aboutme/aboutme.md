@@ -19,14 +19,14 @@ You can download my full CV here:
 
 ## Gallery
 
-![](/assets/img/IMG_3340.jpg){: width="45%" }
-![](/assets/img/IMG_4532.jpg){: width="45%" }
-![](/assets/img/IMG_4945.jpg){: width="45%" }
-![](/assets/img/IMG_6063.jpg){: width="45%" }
-![](/assets/img/IMG_7059.jpg){: width="45%" }
-![](/assets/img/IMG_7060.jpg){: width="45%" }
-![](/assets/img/IMG_7314.jpg){: width="45%" }
-![](/assets/img/IMG_7356.jpg){: width="45%" }
-![](/assets/img/IMG_8035.jpg){: width="45%" }
-![](/assets/img/IMG_8203.jpg){: width="45%" }
-![](/assets/img/IMG_8505.jpg){: width="45%" }
+![](/assets/img/IMG_3340.jpg){: .about-photo }
+![](/assets/img/IMG_4532.jpg){: .about-photo }
+![](/assets/img/IMG_4945.jpg){: .about-photo }
+![](/assets/img/IMG_6063.jpg){: .about-photo }
+![](/assets/img/IMG_7059.jpg){: .about-photo }
+![](/assets/img/IMG_7060.jpg){: .about-photo }
+![](/assets/img/IMG_7314.jpg){: .about-photo }
+![](/assets/img/IMG_7356.jpg){: .about-photo }
+![](/assets/img/IMG_8035.jpg){: .about-photo }
+![](/assets/img/IMG_8203.jpg){: .about-photo }
+![](/assets/img/IMG_8505.jpg){: .about-photo }
