@@ -19,75 +19,75 @@ You can download my full CV here 👉 [(PDF)](/assets/CV.pdf)
 ## Gallery
 
 <div class="gallery-grid">
-
-  <a href="#img1"><img src="/assets/img/IMG_3340.JPG" alt="Munich winter sky"></a>
-  <a href="#img2"><img src="/assets/img/IMG_4532.JPG" alt="Observing night"></a>
-  <a href="#img3"><img src="/assets/img/IMG_4945.JPG" alt="Santiago sunset"></a>
-  <a href="#img4"><img src="/assets/img/IMG_6063.JPG" alt="Atacama road trip"></a>
-  <a href="#img5"><img src="/assets/img/IMG_7059.JPG" alt="ALMA plateau"></a>
-  <a href="#img6"><img src="/assets/img/IMG_7060.JPG" alt="Desert afternoon"></a>
-  <a href="#img7"><img src="/assets/img/IMG_7314.JPG" alt="Mountains near La Serena"></a>
-  <a href="#img8"><img src="/assets/img/IMG_7356.JPG" alt="Evening light"></a>
-  <a href="#img9"><img src="/assets/img/IMG_8035.JPG" alt="Atacama dust and wind"></a>
-  <a href="#img10"><img src="/assets/img/IMG_8203.JPG" alt="Morning hike"></a>
-  <a href="#img11"><img src="/assets/img/IMG_8505.JPG" alt="Southern skies"></a>
+  
+  <a href="#img11"><img src="/assets/img/IMG_8505.JPG" alt="Hello from JIVE! September'2025."></a>
+  <a href="#img8"><img src="/assets/img/IMG_7356.JPG" alt="La Silla archive. March'2025."></a>
+  <a href="#img4"><img src="/assets/img/IMG_6063.JPG" alt="Rocky road in the LCO. June'2024."></a>
+  <a href="#img1"><img src="/assets/img/IMG_3340.JPG" alt="Rainy day at Astronomical Observatory in Belgrade. June'2023."></a>
+  <a href="#img10"><img src="/assets/img/IMG_8203.JPG" alt="Summer in the mountains. June'2021."></a>
+  <a href="#img9"><img src="/assets/img/IMG_8035.JPG" alt="Comet's here! May'2021."></a>
+  <a href="#img5"><img src="/assets/img/IMG_7059.JPG" alt="Dusty region with 1m Zeiss/MAGIC. 2021."></a>
+  <a href="#img6"><img src="/assets/img/IMG_7060.JPG" alt="Bubble nebula with 1m Zeiss/MAGIC. 2021."></a>
+  <a href="#img7"><img src="/assets/img/IMG_7314.JPG" alt="MAGIC focal reducer from inside. November'2020."></a>
+  <a href="#img3"><img src="/assets/img/IMG_4945.JPG" alt="Giant fly over the 6m telescope. July'2019."></a>
+  <a href="#img2"><img src="/assets/img/IMG_4532.JPG" alt="Watching the first EHT presentation! April'2019."></a>
 
 </div>
 
 <div class="lightboxes">
 
   <a href="#" class="lightbox" id="img1">
-    <img src="/assets/img/IMG_3340.JPG" alt="Munich winter sky">
+    <img src="/assets/img/IMG_3340.JPG" alt="Rainy day at Astronomical Observatory in Belgrade. June'2023.">
     <p class="caption">Munich winter sky</p>
   </a>
 
   <a href="#close" class="lightbox" id="img2">
-    <img src="/assets/img/IMG_4532.JPG" alt="Observing night">
+    <img src="/assets/img/IMG_4532.JPG" alt="Watching the first EHT presentation! April'2019.">
     <p class="caption">Observing night</p>
   </a>
 
   <a href="#close" class="lightbox" id="img3">
-    <img src="/assets/img/IMG_4945.JPG" alt="Santiago sunset">
+    <img src="/assets/img/IMG_4945.JPG" alt="Giant fly over the 6m telescope. July'2019.">
     <p class="caption">Santiago sunset</p>
   </a>
 
   <a href="#close" class="lightbox" id="img4">
-    <img src="/assets/img/IMG_6063.JPG" alt="Atacama road trip">
+    <img src="/assets/img/IMG_6063.JPG" alt="Rocky road in the LCO. June'2024.">
     <p class="caption">Atacama road trip</p>
   </a>
 
   <a href="#close" class="lightbox" id="img5">
-    <img src="/assets/img/IMG_7059.JPG" alt="ALMA plateau">
+    <img src="/assets/img/IMG_7059.JPG" alt="Dusty region from 1m Zeiss/MAGIC. 2021.">
     <p class="caption">ALMA plateau</p>
   </a>
 
   <a href="#close" class="lightbox" id="img6">
-    <img src="/assets/img/IMG_7060.JPG" alt="Desert afternoon">
+    <img src="/assets/img/IMG_7060.JPG" alt="Bubble nebula with 1m Zeiss/MAGIC. 2021.">
     <p class="caption">Desert afternoon</p>
   </a>
 
   <a href="#close" class="lightbox" id="img7">
-    <img src="/assets/img/IMG_7314.JPG" alt="Mountains near La Serena">
+    <img src="/assets/img/IMG_7314.JPG" alt="MAGIC focal reducer from inside. November'2020.">
     <p class="caption">Mountains near La Serena</p>
   </a>
 
   <a href="#close" class="lightbox" id="img8">
-    <img src="/assets/img/IMG_7356.JPG" alt="Evening light">
+    <img src="/assets/img/IMG_7356.JPG" alt="La Silla archive. March'2025.">
     <p class="caption">Evening light</p>
   </a>
 
   <a href="#close" class="lightbox" id="img9">
-    <img src="/assets/img/IMG_8035.JPG" alt="Atacama dust and wind">
+    <img src="/assets/img/IMG_8035.JPG" alt="Comet's here! May'2021.">
     <p class="caption">Atacama dust and wind</p>
   </a>
 
   <a href="#close" class="lightbox" id="img10">
-    <img src="/assets/img/IMG_8203.JPG" alt="Morning hike">
+    <img src="/assets/img/IMG_8203.JPG" alt="Summer in the mountains. June'2021.">
     <p class="caption">Morning hike</p>
   </a>
 
   <a href="#close" class="lightbox" id="img11">
-    <img src="/assets/img/IMG_8505.JPG" alt="Southern skies">
+    <img src="/assets/img/IMG_8505.JPG" alt="Hello from JIVE! September'2025.">
     <p class="caption">Southern skies</p>
   </a>
 
