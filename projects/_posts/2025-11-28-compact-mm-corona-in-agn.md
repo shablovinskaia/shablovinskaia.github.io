@@ -3,10 +3,10 @@ layout: post
 title: Millimeter Emission from AGN Coronae
 categories: [projects]
 image:
-  path: /assets/img/projects/mmpol.png
+  path: /assets/img/mmpol.png
 ---
 
-## Compact mm emission — state of the art
+## Millimeter Emission from AGN Coronae
 
 It has long been theorized that the hot, magnetized X-ray corona above the accretion disk in active galactic nuclei may produce synchrotron emission at millimeter wavelengths. However, only with the advent of high-sensitivity mm-interferometers such as ALMA we are now obtaining the first compelling observational evidence supporting this hypothesis. Recent studies have detected compact, unresolved mm sources in radio-quiet AGNs with (highly likely) synchrotron spectra, strongly pointing to corona-based mm emission rather than extended jets or star-forming regions. 
 
