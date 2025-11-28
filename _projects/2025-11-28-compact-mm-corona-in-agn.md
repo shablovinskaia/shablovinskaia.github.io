@@ -1,8 +1,11 @@
 ---
-layout: blog
-title: "Compact mm corona emission in AGN: bridging X-rays and millimeter"
-description: "Exploring the origin of compact millimeter emission in AGN coronae through ALMA observations and X-ray/mm monitoring."
+layout: project
+title: Millimeter Emission from AGN Coronae
 date: 2025-11-28
+image:
+  path: /assets/img/projects/mmpol.png
+description: >
+  Studying compact mm emission from AGN coronae with ALMA.
 ---
 
 ## Compact mm emission — state of the art
