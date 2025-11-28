@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Millimeter Emission from AGN Coronae
+categories: [projects]
 image:
   path: /assets/img/projects/mmpol.png
 ---
