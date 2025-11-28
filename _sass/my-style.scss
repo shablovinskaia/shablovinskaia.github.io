@@ -18,3 +18,17 @@
   max-width: 600px;   
   border-radius: 12px;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.gallery img {
+  width: 45%;
+  border-radius: 8px;
+  height: auto;
+  object-fit: cover;
+}
