@@ -2,7 +2,7 @@
 layout: post
 title: ALMA polarimetry of RQ AGNs - published!
 image:
-  path: /assets/img/mmpol.jpg
+  path: /assets/img/mmpol.png
 categories: [news]
 ---
 
@@ -33,5 +33,4 @@ But now we finally have the observational foundation to push toward realistic ph
 
 ## Links
 
-- **ADS:**  
-  https://ui.adsabs.harvard.edu/abs/2025A%26A...703A..82S/abstract
+- **ADS:** [Shablovinskaia et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A..82S/abstract)
