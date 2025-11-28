@@ -18,6 +18,16 @@ You can download my full CV here 👉 [(PDF)](/assets/CV.pdf)
 
 ## Gallery
 
+<a href="#img1">
+  <img src="/assets/img/IMG_3340.JPG" width="30%">
+</a>
+
+<a href="#" class="lightbox" id="img1">
+  <img src="/assets/img/IMG_3340.JPG">
+  <p class="caption">Rainy day in the Astronomical Observatory in Belgrade, June'2023</p>
+</a>
+
+
 <div class="gallery">
   <img src="/assets/img/IMG_3340.JPG" alt="">
   <img src="/assets/img/IMG_4532.JPG" alt="">
