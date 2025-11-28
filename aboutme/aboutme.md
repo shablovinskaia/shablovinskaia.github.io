@@ -36,7 +36,7 @@ You can download my full CV here 👉 [(PDF)](/assets/CV.pdf)
 
 <div class="lightboxes">
 
-  <a href="#close" class="lightbox" id="img1">
+  <a href="#" class="lightbox" id="img1">
     <img src="/assets/img/IMG_3340.JPG" alt="Munich winter sky">
     <p class="caption">Munich winter sky</p>
   </a>
