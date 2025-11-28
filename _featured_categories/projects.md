@@ -4,5 +4,5 @@ title: Projects
 slug: projects
 class: grid
 description: >
-  Long-term research projects, described in a compact grid layout.
+  Here are my long-term scientific projects.
 ---
