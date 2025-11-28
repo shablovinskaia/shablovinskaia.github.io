@@ -4,5 +4,5 @@ title: News
 slug: news
 class: blog
 description: >
-  Updates, stories, and small research notes.
+  Here I occasionally share updates, results, and small stories from my research life.
 ---
