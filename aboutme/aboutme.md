@@ -20,15 +20,15 @@ You can download my full CV here:
 ## Gallery
 
 <div class="gallery">
-  <img src="/assets/img/IMG_3340.jpg" />
-  <img src="/assets/img/IMG_4532.jpg" />
-  <img src="/assets/img/IMG_4945.jpg" />
-  <img src="/assets/img/IMG_6063.jpg" />
-  <img src="/assets/img/IMG_7059.jpg" />
-  <img src="/assets/img/IMG_7060.jpg" />
-  <img src="/assets/img/IMG_7314.jpg" />
-  <img src="/assets/img/IMG_7356.jpg" />
-  <img src="/assets/img/IMG_8035.jpg" />
-  <img src="/assets/img/IMG_8203.jpg" />
-  <img src="/assets/img/IMG_8505.jpg" />
+  <img src="/assets/img/IMG_3340.jpg" alt="">
+  <img src="/assets/img/IMG_4532.jpg" alt="">
+  <img src="/assets/img/IMG_4945.jpg" alt="">
+  <img src="/assets/img/IMG_6063.jpg" alt="">
+  <img src="/assets/img/IMG_7059.jpg" alt="">
+  <img src="/assets/img/IMG_7060.jpg" alt="">
+  <img src="/assets/img/IMG_7314.jpg" alt="">
+  <img src="/assets/img/IMG_7356.jpg" alt="">
+  <img src="/assets/img/IMG_8035.jpg" alt="">
+  <img src="/assets/img/IMG_8203.jpg" alt="">
+  <img src="/assets/img/IMG_8505.jpg" alt="">
 </div>
