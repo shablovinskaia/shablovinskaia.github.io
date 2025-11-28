@@ -37,12 +37,20 @@
   display: none;
   position: fixed;
   top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0,0,0,0.8);
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.85);
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   text-align: center;
+  padding: 2rem;
+  box-sizing: border-box;
   z-index: 9999;
+}
+
+.lightbox:target {
+  display: flex;
 }
 
 .lightbox img {
@@ -51,12 +59,9 @@
   border-radius: 10px;
 }
 
-.lightbox:target {
-  display: flex;
-}
-
 .lightbox .caption {
-  color: white;
-  margin-top: 10px;
+  color: #eee;
+  margin-top: 1rem;
   font-size: 1.1rem;
+  font-style: italic;
 }
