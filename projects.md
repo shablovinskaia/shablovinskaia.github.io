@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: list
 title: Projects
 permalink: /projects/
 category: projects
