@@ -1,11 +1,8 @@
 ---
-layout: project
+layout: post
 title: Millimeter Emission from AGN Coronae
-date: 2025-11-28
 image:
   path: /assets/img/projects/mmpol.png
-description: >
-  Studying compact mm emission from AGN coronae with ALMA.
 ---
 
 ## Compact mm emission — state of the art
