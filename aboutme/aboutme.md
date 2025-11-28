@@ -18,14 +18,17 @@ You can download my full CV here 👉 [(PDF)](/assets/CV.pdf)
 
 ## Gallery
 
+<!-- Thumbnail -->
 <a href="#img1">
-  <img src="/assets/img/IMG_3340.JPG" width="30%">
+  <img src="/assets/img/IMG_3340.JPG" style="width:30%;margin:5px;border-radius:8px;">
 </a>
 
+<!-- Lightbox -->
 <a href="#" class="lightbox" id="img1">
   <img src="/assets/img/IMG_3340.JPG">
-  <p class="caption">Rainy day in the Astronomical Observatory in Belgrade, June'2023</p>
+  <p class="caption">A snow day in Munich</p>
 </a>
+
 
 
 <div class="gallery">
